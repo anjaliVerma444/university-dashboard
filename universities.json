@@ -1,0 +1,284 @@
+{
+  "universities": [
+    {
+      "id": 1,
+      "name": "University 1",
+      "country": "India",
+      "website": "http://www.university1.example",
+      "state": "State 19"
+    },
+    {
+      "id": 2,
+      "name": "University 2",
+      "country": "USA",
+      "website": "http://www.university2.example",
+      "state": "State 2"
+    },
+    {
+      "id": 3,
+      "name": "University 3",
+      "country": "UK",
+      "website": "http://www.university3.example",
+      "state": "State 4"
+    },
+    {
+      "id": 4,
+      "name": "University 4",
+      "country": "Australia",
+      "website": "http://www.university4.example",
+      "state": "State 3"
+    },
+    {
+      "id": 5,
+      "name": "University 5",
+      "country": "India",
+      "website": "http://www.university5.example",
+      "state": "State 1"
+    },
+    {
+      "id": 6,
+      "name": "University 6",
+      "country": "India",
+      "website": "http://www.university6.example",
+      "state": "State 1"
+    },
+    {
+      "id": 7,
+      "name": "University 7",
+      "country": "USA",
+      "website": "http://www.university7.example",
+      "state": "State 21"
+    },
+    {
+      "id": 8,
+      "name": "University 8",
+      "country": "UK",
+      "website": "http://www.university8.example",
+      "state": "State 48"
+    },
+    {
+      "id": 9,
+      "name": "University 9",
+      "country": "Australia",
+      "website": "http://www.university9.example",
+      "state": "State 3"
+    },
+    {
+      "id": 10,
+      "name": "University 10",
+      "country": "Canada",
+      "website": "http://www.university10.example",
+      "state": "State 10"
+    },
+    {
+      "id": 11,
+      "name": "University 11",
+      "country": "India",
+      "website": "http://www.university11.example",
+      "state": "State 1"
+    },
+    {
+      "id": 12,
+      "name": "University 12",
+      "country": "USA",
+      "website": "http://www.university12.example",
+      "state": "State 2"
+    },
+    {
+      "id": 13,
+      "name": "University 13",
+      "country": "Australia",
+      "website": "http://www.university13.example",
+      "state": "State 31"
+    },
+    {
+      "id": 14,
+      "name": "University 14",
+      "country": "Australia",
+      "website": "http://www.university14.example",
+      "state": "State 31"
+    },
+    {
+      "id": 15,
+      "name": "University 15",
+      "country": "Canada",
+      "website": "http://www.university15.example",
+      "state": "State 5"
+    },
+    {
+      "id": 16,
+      "name": "University 16",
+      "country": "India",
+      "website": "http://www.university16.example",
+      "state": "State 1"
+    },
+    {
+      "id": 17,
+      "name": "University 17",
+      "country": "USA",
+      "website": "http://www.university17.example",
+      "state": "State 22"
+    },
+    {
+      "id": 18,
+      "name": "University 18",
+      "country": "UK",
+      "website": "http://www.university18.example",
+      "state": "State 48"
+    },
+    {
+      "id": 19,
+      "name": "University 19",
+      "country": "Australia",
+      "website": "http://www.university19.example",
+      "state": "State 3"
+    },
+    {
+      "id": 20,
+      "name": "University 20",
+      "country": "Canada",
+      "website": "http://www.university20.example",
+      "state": "State 20"
+    },
+    {
+      "id": 21,
+      "name": "University 21",
+      "country": "India",
+      "website": "http://www.university21.example",
+      "state": "State 1"
+    },
+    {
+      "id": 22,
+      "name": "University 22",
+      "country": "USA",
+      "website": "http://www.university22.example",
+      "state": "State 2"
+    },
+    {
+      "id": 23,
+      "name": "University 23",
+      "country": "UK",
+      "website": "http://www.university23.example",
+      "state": "State 47"
+    },
+    {
+      "id": 24,
+      "name": "University 24",
+      "country": "Australia",
+      "website": "http://www.university24.example",
+      "state": "State 31"
+    },
+    {
+      "id": 25,
+      "name": "University 25",
+      "country": "Canada",
+      "website": "http://www.university25.example",
+      "state": "State 5"
+    },
+    {
+      "id": 26,
+      "name": "University 26",
+      "country": "India",
+      "website": "http://www.university26.example",
+      "state": "State 18"
+    },
+    {
+      "id": 27,
+      "name": "University 27",
+      "country": "USA",
+      "website": "http://www.university27.example",
+      "state": "State 2"
+    },
+    {
+      "id": 28,
+      "name": "University 28",
+      "country": "UK",
+      "website": "http://www.university28.example",
+      "state": "State 46"
+    },
+    {
+      "id": 29,
+      "name": "University 29",
+      "country": "Australia",
+      "website": "http://www.university29.example",
+      "state": "State 3"
+    },
+    {
+      "id": 30,
+      "name": "University 30",
+      "country": "Canada",
+      "website": "http://www.university30.example",
+      "state": "State 30"
+    },
+    {
+      "id": 31,
+      "name": "University 31",
+      "country": "India",
+      "website": "http://www.university31.example",
+      "state": "State 18"
+    },
+    {
+      "id": 32,
+      "name": "University 32",
+      "country": "USA",
+      "website": "http://www.university32.example",
+      "state": "State 21"
+    },
+    {
+      "id": 33,
+      "name": "University 33",
+      "country": "UK",
+      "website": "http://www.university33.example",
+      "state": "State 4"
+    },
+    {
+      "id": 34,
+      "name": "University 34",
+      "country": "Australia",
+      "website": "http://www.university34.example",
+      "state": "State 3"
+    },
+    {
+      "id": 35,
+      "name": "University 35",
+      "country": "Canada",
+      "website": "http://www.university35.example",
+      "state": "State 5"
+    },
+    {
+      "id": 36,
+      "name": "University 36",
+      "country": "India",
+      "website": "http://www.university36.example",
+      "state": "State 18"
+    },
+    {
+      "id": 37,
+      "name": "University 37",
+      "country": "USA",
+      "website": "http://www.university37.example",
+      "state": "State 21"
+    },
+    {
+      "id": 38,
+      "name": "University 38",
+      "country": "UK",
+      "website": "http://www.university38.example",
+      "state": "State 4"
+    },
+    {
+      "id": 39,
+      "name": "University 39",
+      "country": "Australia",
+      "website": "http://www.university39.example",
+      "state": "State 3"
+    },
+    {
+      "id": 40,
+      "name": "University 40",
+      "country": "India",
+      "website": "http://www.university40.example",
+      "state": "State 18"
+    }
+  ]
+}
